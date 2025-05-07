@@ -6,12 +6,14 @@
     <description>Recent content in Ide on Theoretically Josh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</managingEditor>
+    <webMaster>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</webMaster>
     <lastBuildDate>Fri, 28 Oct 2022 09:15:05 -0700</lastBuildDate>
     <atom:link href="https://theoreticallyjosh.com/tags/ide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning Programming Lesson 01</title>
       <link>https://theoreticallyjosh.com/post/beginning-programming-lesson-01/</link>
-      <pubDate>Fri, 28 Oct 2022 09:15:05 -0700</pubDate>
+      <pubDate>Fri, 28 Oct 2022 09:15:05 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
       <guid>https://theoreticallyjosh.com/post/beginning-programming-lesson-01/</guid>
       <description>&lt;p&gt;When I was about 12 years old, my aunt gave us an old computer. Without going into all the details, I broke it, and all that it would then let you do is write programs in BASIC. It came with a book explaining how to do various things with the language. So having nothing better to do, I worked through it and taught myself how to code, and eventually went to college to learn how to do it better. Now I make a living writing software. I have good news for you. For most people and what they want to do with software development, you don&amp;rsquo;t need to spend tons of money. You can find pretty much everything you need on the Internet. With the tutorials that follow I hope to make it even easier for you. Basic understanding on how to use a computer, browse the Web, and some middle school math is required, but that&amp;rsquo;s pretty much it. We won&amp;rsquo;t go into exhaustive detail on every topic covered in this series, but it should be enough to get you going. So, let&amp;rsquo;s get on with what you will need.&lt;/p&gt;</description>
     </item>

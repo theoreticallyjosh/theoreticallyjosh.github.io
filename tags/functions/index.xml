@@ -6,12 +6,14 @@
     <description>Recent content in Functions on Theoretically Josh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</managingEditor>
+    <webMaster>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</webMaster>
     <lastBuildDate>Tue, 01 Nov 2022 09:22:40 -0700</lastBuildDate>
     <atom:link href="https://theoreticallyjosh.com/tags/functions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning Programming Lesson 02</title>
       <link>https://theoreticallyjosh.com/post/beginning-programming-lesson-02/</link>
-      <pubDate>Tue, 01 Nov 2022 09:22:40 -0700</pubDate>
+      <pubDate>Tue, 01 Nov 2022 09:22:40 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
       <guid>https://theoreticallyjosh.com/post/beginning-programming-lesson-02/</guid>
       <description>&lt;p&gt;Now that you have your setup ready to go, we can start writing some code!  Note that we are just touching the surface of the topics covered in this lesson, but the sooner you start writing code, the easier it will become to understand the topics better. Plus you are more likely to continue, if you feel like you are accomplishing something, rather than learning more and more theory.&#xA;You can download the file &lt;a href=&#34;https://raw.githubusercontent.com/jlhags/Beginning_Programming_In_Go/main/Lesson_02/main.go&#34;&gt;here&lt;/a&gt;. I suggest creating a folder to store all the files for this and future examples. Also create a sub-folder for each individual lesson, since they all will be named &lt;code&gt;main.go&lt;/code&gt;. Open it up in VS Code, and open a terminal. Make sure you are in the correct folder/directory by using the &lt;code&gt;pwd&lt;/code&gt; command. Use the &lt;code&gt;cd&lt;/code&gt; command to change directories if needed. Then go ahead and run it by executing:&lt;/p&gt;</description>
     </item>

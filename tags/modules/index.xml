@@ -6,12 +6,14 @@
     <description>Recent content in Modules on Theoretically Josh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</managingEditor>
+    <webMaster>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</webMaster>
     <lastBuildDate>Mon, 16 Jan 2023 11:20:36 -0700</lastBuildDate>
     <atom:link href="https://theoreticallyjosh.com/tags/modules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning Programming Lesson 07</title>
       <link>https://theoreticallyjosh.com/post/beginning-programming-lesson-07/</link>
-      <pubDate>Mon, 16 Jan 2023 11:20:36 -0700</pubDate>
+      <pubDate>Mon, 16 Jan 2023 11:20:36 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
       <guid>https://theoreticallyjosh.com/post/beginning-programming-lesson-07/</guid>
       <description>&lt;p&gt;In previous lesson we put all of out code in one file and one package, &lt;code&gt;main&lt;/code&gt;. However, aside from very small projects, this won&amp;rsquo;t scale very well, and does make your code very reusable apart from copying and pasting. We have already seen the usefulness of packages through using the &lt;code&gt;fmt&lt;/code&gt; and &lt;code&gt;errors&lt;/code&gt; packages. So let&amp;rsquo;s look at how to create our own. You can find the code for today&amp;rsquo;s lesson &lt;a href=&#34;https://github.com/jlhags/Beginning_Programming_In_Go/tree/main/Lesson_07&#34;&gt;here&lt;/a&gt;. There is more than one file this time!&lt;/p&gt;</description>
     </item>

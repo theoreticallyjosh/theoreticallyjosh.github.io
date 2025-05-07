@@ -6,12 +6,14 @@
     <description>Recent content in For Loop on Theoretically Josh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <managingEditor>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</managingEditor>
+    <webMaster>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</webMaster>
     <lastBuildDate>Mon, 14 Nov 2022 11:13:23 -0700</lastBuildDate>
     <atom:link href="https://theoreticallyjosh.com/tags/for-loop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginning Programming Lesson 04</title>
       <link>https://theoreticallyjosh.com/post/beginning-programming-lesson-04/</link>
-      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
       <guid>https://theoreticallyjosh.com/post/beginning-programming-lesson-04/</guid>
       <description>&lt;p&gt;We now know how to create and use variables, structs, and functions. But thus far, all the examples have been fairly linear. What if we want do things only when certain criteria are met? Or what if we want to do the same thing many times in a row? What if we want want store a bunch of a rectangles from the previous lesson? This is where control structures, arrays and slices come in handy. You can download this lessons code &lt;a href=&#34;https://raw.githubusercontent.com/jlhags/Beginning_Programming_In_Go/main/Lesson_02/main.go&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>

@@ -14,7 +14,8 @@
 
       <title>Beginning Programming Lesson 06 - </title>
 
-  <meta name="description" content="Recursion and Error Handling"><script type="application/ld+json">
+  <meta name="description" content="Recursion and Error Handling">
+  <meta name="author" content="Joshua Hagofsky"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -59,7 +60,7 @@
   "@context": "http://schema.org",
   "@type": "Article",
   "author": {
-    "name" : ""
+    "name" : "Joshua Hagofsky"
   },
   "headline": "Beginning Programming Lesson 06",
   "description" : "When I was in college my professor explained recursion as \u0026ldquo;Pretend you already have a function that does what you need to do.\u0026rdquo; The problem with that explanation is, it only makes sense after you understand recursion. I think we can do better here. While we are at it, let\u0026rsquo;s look at error handling too. You can find the code for today\u0026rsquo;s lesson here.\npackage main import ( \u0026#34;fmt\u0026#34; \u0026#34;log\u0026#34; ) type MinInputError struct { } func (e *MinInputError) Error() string { return \u0026#34;invalid input, number must be greater than 0\u0026#34; } type MaxInputError struct { } func (e *MaxInputError) Error() string { return \u0026#34;invalid input, number must be less than 100\u0026#34; } func Factorial(n int) int { if n == 1 { return n } return n * Factorial(n-1) } func Factorial2(n int) (int, error) { if n \u0026lt; 0 { return 0, \u0026amp;MinInputError{} } if n \u0026gt; 100 { return 0, \u0026amp;MaxInputError{} } ret := n for i := n - 1; i \u0026gt; 0; i-- { ret = ret * i } return ret, nil } func main() { fmt.Println(Factorial(10)) fmt.Println(Factorial2(10)) fmt.Println(Factorial2(-10)) f, err := Factorial2(-13) if err != nil { log.Print(err) } else { fmt.Println(f) } f, err = Factorial2(100000000000) if _, ok := err.(*MaxInputError); ok { fmt.Println(\u0026#34;Do something special\u0026#34;) } else { fmt.Println(f) } } Recursion If you want to understand recursion, check out my tutorial on recursion. (:-p) (Sorry I couldn\u0026rsquo;t help myself). Anyway, a recursive function\/method is one that calls itself in its definition. It\u0026rsquo;s probably best to look at an example. Let\u0026rsquo;s create a function that calculates the factorial of a number. In case you don\u0026rsquo;t recall:\n",
@@ -95,10 +96,12 @@
   <meta name="twitter:description" content="Recursion and Error Handling">
   <meta name="twitter:image" content="https://theoreticallyjosh.com/img/logo.jpeg" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@theoreticjosh" />
+  <meta name="twitter:creator" content="@theoreticjosh" />
   <link href='https://theoreticallyjosh.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta name="generator" content="Hugo 0.147.1">
   <link rel="alternate" href="https://theoreticallyjosh.com/index.xml" type="application/rss+xml" title="Theoretically Josh"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css" integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.6.0/css/all.css" integrity="sha384-h/hnnw1Bi4nbpD6kE7nYfCXzovi622sY5WBxww8ARKwpdLj5kUWjRuyiXaD1U2JT" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"><link rel="stylesheet" href="https://theoreticallyjosh.com/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://theoreticallyjosh.com/css/syntax.css" /><link rel="stylesheet" href="https://theoreticallyjosh.com/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
@@ -258,7 +261,7 @@
   
   
     
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Joshua Hagofsky
     
   
   
@@ -465,7 +468,7 @@ That might not seem very helpful, but is helpful for writing a function to calcu
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=https%3a%2f%2ftheoreticallyjosh.com%2fpost%2fbeginning-programming-lesson-06%2f&amp;text=Beginning%20Programming%20Lesson%2006&amp;via=" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=https%3a%2f%2ftheoreticallyjosh.com%2fpost%2fbeginning-programming-lesson-06%2f&amp;text=Beginning%20Programming%20Lesson%2006&amp;via=theoreticjosh" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -587,11 +590,65 @@ That might not seem very helpful, but is helpful for writing a function to calcu
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           
+              <li>
+		
+		  <a href="mailto:theoreticallyjosh&#43;blog@gmail.com" title="Email me">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://github.com/theoreticallyjosh" title="GitHub">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://gitlab.com/jlhags" title="GitLab">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://twitter.com/theoreticjosh" title="Twitter">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://linkedin.com/in/joshua-hagofsky-6bb33415a" title="LinkedIn">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
           
           
           
         </ul>
         <p class="credits copyright text-muted">
+          
+            
+              <a href="techinicallyjosh.com">Joshua Hagofsky</a>
+            
           
 
           &nbsp;&bull;&nbsp;&copy;

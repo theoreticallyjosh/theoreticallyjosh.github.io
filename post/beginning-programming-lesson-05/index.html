@@ -14,7 +14,8 @@
 
       <title>Beginning Programming Lesson 05 - </title>
 
-  <meta name="description" content="Inheritance, Interfaces, and Type Assertion"><script type="application/ld+json">
+  <meta name="description" content="Inheritance, Interfaces, and Type Assertion">
+  <meta name="author" content="Joshua Hagofsky"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -59,7 +60,7 @@
   "@context": "http://schema.org",
   "@type": "Article",
   "author": {
-    "name" : ""
+    "name" : "Joshua Hagofsky"
   },
   "headline": "Beginning Programming Lesson 05",
   "description" : "We created complex data types (structs\/classes), but what if we wanted to create another struct that expands upon another? Or you wanted to create a number of different structs that play by a certain set of rules. The example code for today can be found here.\npackage main import ( \u0026#34;fmt\u0026#34; \u0026#34;math\u0026#34; ) type Polygon interface { Shape() string Perimeter() float64 Area() float64 } type Rectangle struct { Length float64 Height float64 } func (r Rectangle) Perimeter() float64 { return 2*r.Height \u002b 2*r.Length } func (r Rectangle) Area() float64 { return r.Height * r.Length } func (r Rectangle) Shape() string { return \u0026#34;rectangle\u0026#34; } func (r Rectangle) String() string { return fmt.Sprintf(\u0026#34;Shape: %s, Dimensions: %fx%f, Perimeter: %f, Area: %f\u0026#34;, r.Shape(), r.Length, r.Height, r.Perimeter(), r.Area()) } type ColoredRectangle struct { Rectangle Color string } func (r ColoredRectangle) String() string { return fmt.Sprintf(\u0026#34;Shape: %s, Dimensions: %fx%f, Perimeter: %f, Area: %f, Color: %s\u0026#34;, r.Shape(), r.Length, r.Height, r.Perimeter(), r.Area(), r.Color) } type Triangle struct { Sides [3]float64 } func (t Triangle) Perimeter() float64 { return t.Sides[0] \u002b t.Sides[1] \u002b t.Sides[2] } func (t Triangle) Area() float64 { p := t.Perimeter() \/ 2 return math.Sqrt(p * (p - t.Sides[0]) * (p - t.Sides[1]) * (p - t.Sides[2])) } func (t Triangle) Shape() string { return \u0026#34;triangle\u0026#34; } func (t Triangle) String() string { return fmt.Sprintf(\u0026#34;Shape: %s, Dimensions: %fx%fx%f, Perimeter: %f, Area: %f\u0026#34;, t.Shape(), t.Sides[0], t.Sides[1], t.Sides[2], t.Perimeter(), t.Area()) } func printSlice(s []interface{}) { for i, v := range s { fmt.Printf(\u0026#34;%d - %v\\n\u0026#34;, i, v) } } func main() { rect := Rectangle{Length: 5, Height: 4} tri := Triangle{Sides: [3]float64{4, 5, 6}} fmt.Println(rect) fmt.Println(tri) var polys []Polygon polys = append(polys, rect) polys = append(polys, tri) var cr ColoredRectangle cr.Height = 7 cr.Length = 8 cr.Color = \u0026#34;red\u0026#34; polys = append(polys, cr) fmt.Println(polys) for _, p := range polys { fmt.Println(p) } fmt.Printf(\u0026#34;Shape 1 type: %s\\n\u0026#34;, polys[0].Shape()) random := []interface{}{1, \u0026#34;blue\u0026#34;, rect, tri} printSlice(random) if _, ok := random[1].(Polygon); !ok { fmt.Println(\u0026#34;Not a polygon\u0026#34;) } fmt.Println(random[2].(Polygon).Shape()) } Interfaces An interface in general provides a way of communication between two or more parties. A GUI (Graphical User Interface) provides a means communication between a computer and a human. In the case of Golang and many other programming languages, an interface is a definition of how a struct must behave in order to work with other portions of code that expect them to follow the definition. In our last lesson we created a struct polygon. It had a method to calculate the perimeter. What if we wanted to have it calculate area? Well, the area calculation varies from polygon to polygon. While there are a number of ways we could deal with this, let\u0026rsquo;s see how we could use interfaces to help.\n",
@@ -95,10 +96,12 @@
   <meta name="twitter:description" content="Inheritance, Interfaces, and Type Assertion">
   <meta name="twitter:image" content="https://theoreticallyjosh.com/img/logo.jpeg" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@theoreticjosh" />
+  <meta name="twitter:creator" content="@theoreticjosh" />
   <link href='https://theoreticallyjosh.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta name="generator" content="Hugo 0.147.1">
   <link rel="alternate" href="https://theoreticallyjosh.com/index.xml" type="application/rss+xml" title="Theoretically Josh"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css" integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.6.0/css/all.css" integrity="sha384-h/hnnw1Bi4nbpD6kE7nYfCXzovi622sY5WBxww8ARKwpdLj5kUWjRuyiXaD1U2JT" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"><link rel="stylesheet" href="https://theoreticallyjosh.com/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://theoreticallyjosh.com/css/syntax.css" /><link rel="stylesheet" href="https://theoreticallyjosh.com/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
@@ -258,7 +261,7 @@
   
   
     
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Joshua Hagofsky
     
   
   
@@ -500,7 +503,7 @@
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=https%3a%2f%2ftheoreticallyjosh.com%2fpost%2fbeginning-programming-lesson-05%2f&amp;text=Beginning%20Programming%20Lesson%2005&amp;via=" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=https%3a%2f%2ftheoreticallyjosh.com%2fpost%2fbeginning-programming-lesson-05%2f&amp;text=Beginning%20Programming%20Lesson%2005&amp;via=theoreticjosh" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -622,11 +625,65 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           
+              <li>
+		
+		  <a href="mailto:theoreticallyjosh&#43;blog@gmail.com" title="Email me">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://github.com/theoreticallyjosh" title="GitHub">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://gitlab.com/jlhags" title="GitLab">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://twitter.com/theoreticjosh" title="Twitter">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+		
+		  <a href="https://linkedin.com/in/joshua-hagofsky-6bb33415a" title="LinkedIn">
+		
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
           
           
           
         </ul>
         <p class="credits copyright text-muted">
+          
+            
+              <a href="techinicallyjosh.com">Joshua Hagofsky</a>
+            
           
 
           &nbsp;&bull;&nbsp;&copy;
