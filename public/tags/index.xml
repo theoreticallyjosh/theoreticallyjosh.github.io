@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Theoretically Josh</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Theoretically Josh</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2023 13:05:11 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginning Programming</title>
+      <link>http://localhost:1313/tags/beginning-programming/</link>
+      <pubDate>Tue, 07 Feb 2023 13:05:11 -0700</pubDate>
+      <guid>http://localhost:1313/tags/beginning-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Example</title>
+      <link>http://localhost:1313/tags/example/</link>
+      <pubDate>Tue, 07 Feb 2023 13:05:11 -0700</pubDate>
+      <guid>http://localhost:1313/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Tue, 07 Feb 2023 13:05:11 -0700</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Tue, 07 Feb 2023 13:05:11 -0700</pubDate>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modules</title>
+      <link>http://localhost:1313/tags/modules/</link>
+      <pubDate>Mon, 16 Jan 2023 11:20:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/modules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packages</title>
+      <link>http://localhost:1313/tags/packages/</link>
+      <pubDate>Mon, 16 Jan 2023 11:20:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/packages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Error Handling</title>
+      <link>http://localhost:1313/tags/error-handling/</link>
+      <pubDate>Wed, 07 Dec 2022 11:20:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/error-handling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recursion</title>
+      <link>http://localhost:1313/tags/recursion/</link>
+      <pubDate>Wed, 07 Dec 2022 11:20:36 -0700</pubDate>
+      <guid>http://localhost:1313/tags/recursion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inheritance</title>
+      <link>http://localhost:1313/tags/inheritance/</link>
+      <pubDate>Mon, 28 Nov 2022 07:03:58 -0700</pubDate>
+      <guid>http://localhost:1313/tags/inheritance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interfaces</title>
+      <link>http://localhost:1313/tags/interfaces/</link>
+      <pubDate>Mon, 28 Nov 2022 07:03:58 -0700</pubDate>
+      <guid>http://localhost:1313/tags/interfaces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Type Assertion</title>
+      <link>http://localhost:1313/tags/type-assertion/</link>
+      <pubDate>Mon, 28 Nov 2022 07:03:58 -0700</pubDate>
+      <guid>http://localhost:1313/tags/type-assertion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arrays</title>
+      <link>http://localhost:1313/tags/arrays/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <guid>http://localhost:1313/tags/arrays/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Control Structures</title>
+      <link>http://localhost:1313/tags/control-structures/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <guid>http://localhost:1313/tags/control-structures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>For Loop</title>
+      <link>http://localhost:1313/tags/for-loop/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <guid>http://localhost:1313/tags/for-loop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>If Else</title>
+      <link>http://localhost:1313/tags/if-else/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <guid>http://localhost:1313/tags/if-else/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slices</title>
+      <link>http://localhost:1313/tags/slices/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <guid>http://localhost:1313/tags/slices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Switch Statement</title>
+      <link>http://localhost:1313/tags/switch-statement/</link>
+      <pubDate>Mon, 14 Nov 2022 11:13:23 -0700</pubDate>
+      <guid>http://localhost:1313/tags/switch-statement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Array</title>
+      <link>http://localhost:1313/tags/array/</link>
+      <pubDate>Fri, 11 Nov 2022 12:29:33 -0700</pubDate>
+      <guid>http://localhost:1313/tags/array/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>http://localhost:1313/tags/index/</link>
+      <pubDate>Fri, 11 Nov 2022 12:29:33 -0700</pubDate>
+      <guid>http://localhost:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Complex Data Types</title>
+      <link>http://localhost:1313/tags/complex-data-types/</link>
+      <pubDate>Tue, 08 Nov 2022 09:03:18 -0700</pubDate>
+      <guid>http://localhost:1313/tags/complex-data-types/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structs</title>
+      <link>http://localhost:1313/tags/structs/</link>
+      <pubDate>Tue, 08 Nov 2022 09:03:18 -0700</pubDate>
+      <guid>http://localhost:1313/tags/structs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Functions</title>
+      <link>http://localhost:1313/tags/functions/</link>
+      <pubDate>Tue, 01 Nov 2022 09:22:40 -0700</pubDate>
+      <guid>http://localhost:1313/tags/functions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pointers</title>
+      <link>http://localhost:1313/tags/pointers/</link>
+      <pubDate>Tue, 01 Nov 2022 09:22:40 -0700</pubDate>
+      <guid>http://localhost:1313/tags/pointers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scope</title>
+      <link>http://localhost:1313/tags/scope/</link>
+      <pubDate>Tue, 01 Nov 2022 09:22:40 -0700</pubDate>
+      <guid>http://localhost:1313/tags/scope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Variables</title>
+      <link>http://localhost:1313/tags/variables/</link>
+      <pubDate>Tue, 01 Nov 2022 09:22:40 -0700</pubDate>
+      <guid>http://localhost:1313/tags/variables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Command Line</title>
+      <link>http://localhost:1313/tags/command-line/</link>
+      <pubDate>Fri, 28 Oct 2022 09:15:05 -0700</pubDate>
+      <guid>http://localhost:1313/tags/command-line/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ide</title>
+      <link>http://localhost:1313/tags/ide/</link>
+      <pubDate>Fri, 28 Oct 2022 09:15:05 -0700</pubDate>
+      <guid>http://localhost:1313/tags/ide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost:1313/tags/terminal/</link>
+      <pubDate>Fri, 28 Oct 2022 09:15:05 -0700</pubDate>
+      <guid>http://localhost:1313/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>http://localhost:1313/tags/shell/</link>
+      <pubDate>Fri, 21 Oct 2022 11:05:10 -0700</pubDate>
+      <guid>http://localhost:1313/tags/shell/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

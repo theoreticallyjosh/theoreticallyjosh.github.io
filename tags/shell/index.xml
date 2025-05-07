@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shell on Theoretically Josh</title>
+    <link>https://theoreticallyjosh.com/tags/shell/</link>
+    <description>Recent content in Shell on Theoretically Josh</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 11:05:10 -0700</lastBuildDate>
+    <atom:link href="https://theoreticallyjosh.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to the Command Line</title>
+      <link>https://theoreticallyjosh.com/post/introduction-to-the-commandline/</link>
+      <pubDate>Fri, 21 Oct 2022 11:05:10 -0700</pubDate>
+      <guid>https://theoreticallyjosh.com/post/introduction-to-the-commandline/</guid>
+      <description>&lt;p&gt;The command line can feel a bit like a step backwards in terms of user experience, or even intimidating. However, it can be a very powerful tool, and even impossible to avoid if you want to program or be involved in IT.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;&#xA;&lt;p&gt;Probably the most recognizable image of the command line is that black box on the screen with green text. Basically it is a place to interact with your computer via text rather than photos (mostly). You&amp;rsquo;ll need an application called a &amp;ldquo;terminal&amp;rdquo; or &amp;ldquo;terminal emulator&amp;rdquo; to get started. Also, you will need to select a shell. Think of it as what interprets the text you type, and the terminal displays it. Each operating system has it&amp;rsquo;s own default shell, but for the most part you have at least a few alternatives. There are plenty of articles written on the subject. So, we are just going to look at some high level concepts. In general a command entered into the terminal is broken into 3 parts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
