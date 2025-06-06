@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</managingEditor>
     <webMaster>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</webMaster>
-    <lastBuildDate>Tue, 07 Feb 2023 13:05:11 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 13:35:13 -0700</lastBuildDate>
     <atom:link href="https://theoreticallyjosh.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://theoreticallyjosh.com/page/projects/</link>
+      <pubDate>Fri, 06 Jun 2025 13:35:13 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
+      <guid>https://theoreticallyjosh.com/page/projects/</guid>
+      <description>&lt;p&gt;Here is a list of a some open source projects I manage.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Project&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/logseq-plugin-harper&#34;&gt;Logseq-plugin-harper&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Plugin for &lt;a href=&#34;https://logseq.com/&#34;&gt;Logseq&lt;/a&gt; to provide &lt;a href=&#34;https://writewithharper.com/&#34;&gt;harper-ls&lt;/a&gt; functionality&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/dots&#34;&gt;dots&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;My configuration files for my setup&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
     <item>
       <title>Beginning Programming Lesson 08</title>
       <link>https://theoreticallyjosh.com/post/beginning-programming-lesson-08/</link>
