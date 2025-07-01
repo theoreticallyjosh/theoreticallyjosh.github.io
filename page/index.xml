@@ -1,35 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Theoretically Josh</title>
-    <link>https://theoreticallyjosh.com/page/</link>
-    <description>Recent content in Pages on Theoretically Josh</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</managingEditor>
-    <webMaster>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</webMaster>
-    <lastBuildDate>Fri, 06 Jun 2025 13:35:13 -0700</lastBuildDate>
-    <atom:link href="https://theoreticallyjosh.com/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>https://theoreticallyjosh.com/page/projects/</link>
-      <pubDate>Fri, 06 Jun 2025 13:35:13 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
-      <guid>https://theoreticallyjosh.com/page/projects/</guid>
-      <description>&lt;p&gt;Here is a list of a some open source projects I manage.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Project&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/logseq-plugin-harper&#34;&gt;Logseq-plugin-harper&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Plugin for &lt;a href=&#34;https://logseq.com/&#34;&gt;Logseq&lt;/a&gt; to provide &lt;a href=&#34;https://writewithharper.com/&#34;&gt;harper-ls&lt;/a&gt; functionality&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/dots&#34;&gt;dots&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;My configuration files for my setup&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://theoreticallyjosh.com/page/privacy/</link>
-      <pubDate>Wed, 26 Oct 2022 10:18:36 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
-      <guid>https://theoreticallyjosh.com/page/privacy/</guid>
-      <description>&lt;h2 id=&#34;privacy-policy-for-theoretically-josh&#34;&gt;Privacy Policy for Theoretically Josh&lt;/h2&gt;&#xA;&lt;p&gt;At Theoretically Josh, accessible from &lt;a href=&#34;https://theoreticallyjosh.com&#34;&gt;https://theoreticallyjosh.com&lt;/a&gt;, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Theoretically Josh and how we use it.&lt;/p&gt;&#xA;&lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;&#xA;&lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Theoretically Josh. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the &lt;a href=&#34;https://www.privacypolicygenerator.info/&#34;&gt;Free Privacy Policy Generator&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://theoreticallyjosh.com/page/about/</link>
-      <pubDate>Wed, 19 Oct 2022 10:22:33 -0700</pubDate><author>theoreticallyjosh&#43;blog@gmail.com (Joshua Hagofsky)</author>
-      <guid>https://theoreticallyjosh.com/page/about/</guid>
-      <description>&lt;p&gt;My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. My family didn&amp;rsquo;t have much money. So, the only computer we had was an old &lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt; that our aunt gave us. I somehow managed to fry the serial port, which meant no external storage would work. The only thing I could do with it was program in BASIC. Luckily, it came with a book on how to do just that. I would spend ours trying to create simple programs and games, only to loose everything ever time I turned it off. Eventually in high school I began learning C. I was then approached by some teachers to see if I could write some voting software for a mock election. It worked, but looking back, the code was terrible. Anyway I went to college and learned how to get better.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Theoretically Josh</title><link>/page/</link><description>Recent content in Pages on Theoretically Josh</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 05:57:10 -0700</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Policy</title><link>/page/privacy/</link><pubDate>Wed, 26 Oct 2022 10:18:36 -0700</pubDate><guid>/page/privacy/</guid><description>&lt;h2 id="privacy-policy-for-theoretically-josh">Privacy Policy for Theoretically Josh&lt;/h2>
+&lt;p>At Theoretically Josh, accessible from &lt;a href="https://theoreticallyjosh.com">https://theoreticallyjosh.com&lt;/a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Theoretically Josh and how we use it.&lt;/p>
+&lt;p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p>
+&lt;p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Theoretically Josh. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the &lt;a href="https://www.privacypolicygenerator.info/">Free Privacy Policy Generator&lt;/a>&lt;/p></description></item><item><title>About</title><link>/page/about/</link><pubDate>Wed, 19 Oct 2022 10:22:33 -0700</pubDate><guid>/page/about/</guid><description>&lt;p>&lt;img src="/images/logo.jpeg" alt="me">
+My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. My family didn&amp;rsquo;t have much money. So, the only computer we had was an old &lt;a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore 64&lt;/a> that our aunt gave us. I somehow managed to fry the serial port, which meant no external storage would work. The only thing I could do with it was program in BASIC. Luckily, it came with a book on how to do just that. I would spend hours trying to create simple programs and games, only to loose everything ever time I turned it off. Eventually in high school I began learning C. I was then approached by some teachers to see if I could write some voting software for a mock election. It worked, but looking back, the code was terrible. Anyway I went to college and learned how to get better.&lt;/p></description></item><item><title>Projects</title><link>/page/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/projects/</guid><description>&lt;p>Here is a list of a some open source projects I manage.&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Project&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://github.com/theoreticallyjosh/logseq-plugin-harper">Logseq-plugin-harper&lt;/a>&lt;/td>
+ &lt;td>Plugin for &lt;a href="https://logseq.com/">Logseq&lt;/a> to provide &lt;a href="https://writewithharper.com/">harper-ls&lt;/a> functionality&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://github.com/theoreticallyjosh/dots">dots&lt;/a>&lt;/td>
+ &lt;td>My configuration files for my setup&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Resume</title><link>/page/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/resume/</guid><description>&lt;p>&lt;a href="/docs/resume.pdf">Download PDF&lt;/a>&lt;/p>
+&lt;h1 id="joshua-hagofsky">Joshua Hagofsky&lt;/h1>
+&lt;h2 id="languages">Languages&lt;/h2>
+&lt;p>Go, Typescript, Javascript, C#, C/C++, PromQL, Python, Perl&lt;/p>
+&lt;h2 id="frameworks--tools">Frameworks &amp;amp; Tools&lt;/h2>
+&lt;p>Angular, AWS, Snowflake, Docker, MySQL, SQL Server, Kubernetes, Prometheus, Elasticsearch, Grafana, Consul, Vault&lt;/p>
+&lt;h2 id="experience">Experience&lt;/h2>
+&lt;p>&lt;strong>Ontologics&lt;/strong> | Vice President of Software Development&lt;br>
+&lt;em>April 2021 - Present&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Designed and implemented a full-stack software solution utilizing, GP, Angular, Snowflake, and AWS to analyze patent portfolios and provide key insights, resulting in a 700+% increase in efficiency for legal teams&lt;/li>
+&lt;li>Developed robust data pipelines using Snowflake to ingest and process patent data&lt;/li>
+&lt;li>Utilized CI/CD pipelines (Codepipe &amp;amp; ECS) for automated deployment and scaling of the application&lt;/li>
+&lt;li>implemented matching learning algorithms (regression models) to determine patent strength and identify emerging technology areas.&lt;/li>
+&lt;li>Worked with LLMs to provide insights into patent portfolios, including determining potential infringement risks&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>American Express&lt;/strong> | Site Reliability Engineer &amp;amp; Tooling Lead&lt;br>
+&lt;em>January 2019 - April 2021 (Full Time)&lt;/em>&lt;br>
+&lt;em>June 2018 - January 2019 (Contractor)&lt;/em>&lt;/p></description></item></channel></rss>
