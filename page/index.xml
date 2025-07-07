@@ -2,7 +2,20 @@
 &lt;p>At Theoretically Josh, accessible from &lt;a href="https://theoreticallyjosh.com">https://theoreticallyjosh.com&lt;/a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Theoretically Josh and how we use it.&lt;/p>
 &lt;p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p>
 &lt;p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Theoretically Josh. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the &lt;a href="https://www.privacypolicygenerator.info/">Free Privacy Policy Generator&lt;/a>&lt;/p></description></item><item><title>About</title><link>/page/about/</link><pubDate>Wed, 19 Oct 2022 10:22:33 -0700</pubDate><guid>/page/about/</guid><description>&lt;p>&lt;img src="/images/logo.jpeg" alt="me">
-My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. My family didn&amp;rsquo;t have much money. So, the only computer we had was an old &lt;a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore 64&lt;/a> that our aunt gave us. I somehow managed to fry the serial port, which meant no external storage would work. The only thing I could do with it was program in BASIC. Luckily, it came with a book on how to do just that. I would spend hours trying to create simple programs and games, only to loose everything ever time I turned it off. Eventually in high school I began learning C. I was then approached by some teachers to see if I could write some voting software for a mock election. It worked, but looking back, the code was terrible. Anyway I went to college and learned how to get better.&lt;/p></description></item><item><title>Projects</title><link>/page/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/projects/</guid><description>&lt;p>Here is a list of a some open source projects I manage.&lt;/p>
+My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. My family didn&amp;rsquo;t have much money. So, the only computer we had was an old &lt;a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore 64&lt;/a> that our aunt gave us. I somehow managed to fry the serial port, which meant no external storage would work. The only thing I could do with it was program in BASIC. Luckily, it came with a book on how to do just that. I would spend hours trying to create simple programs and games, only to loose everything ever time I turned it off. Eventually in high school I began learning C. I was then approached by some teachers to see if I could write some voting software for a mock election. It worked, but looking back, the code was terrible. Anyway I went to college and learned how to get better.&lt;/p></description></item><item><title>Consulting</title><link>/page/services/consulting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/services/consulting/</guid><description>&lt;h1 id="consulting">Consulting&lt;/h1>
+&lt;h2 id="unlock-your-businesss-full-potential">Unlock Your Business’s Full Potential&lt;/h2>
+&lt;p>Struggling with inefficiencies or security gaps? My expert consulting services identify bottlenecks and vulnerabilities, delivering tailored recommendations to boost performance and protect your business. From streamlining operations to enhancing cybersecurity, I’ll help you stay ahead.&lt;/p>
+&lt;p>&lt;strong>Why Choose Me?&lt;/strong> Actionable insights, customized strategies, and proven results.&lt;br>
+&lt;strong>Ready to Start?&lt;/strong> &lt;a href="/contact?subject=Consultation">Schedule a Free 30-Minute Consultation&lt;/a>&lt;/p>
+&lt;h2 id="task-automation">Task Automation&lt;/h2>
+&lt;p>&lt;strong>Save Time with Smart Automation&lt;/strong>&lt;/p>
+&lt;p>Tired of wasting hours on repetitive tasks? I analyze your workflows and implement automation solutions to save time, reduce errors, and let you focus on what matters, growing your business. From simple scripts to complex integrations, I’ll tailor solutions to fit your needs.&lt;/p></description></item><item><title>Custom Software Development</title><link>/page/services/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/services/development/</guid><description>&lt;p>&lt;strong>Bring Your Vision to Life&lt;/strong>&lt;/p>
+&lt;h2 id="new-project">New Project&lt;/h2>
+&lt;p>Have a game-changing idea? As a full-stack developer, I’ll build your custom software from concept to launch, ensuring it’s scalable, secure, and user-friendly. Let’s turn your vision into reality.&lt;/p>
+&lt;p>&lt;strong>What I Offer:&lt;/strong> End-to-end development, modern tech stacks, and ongoing support.&lt;br>
+&lt;strong>Let’s Talk:&lt;/strong> &lt;a href="/contact?subject=New%20Project">Request a Project Quote&lt;/a>&lt;/p>
+&lt;h2 id="update-existing-project">Update Existing Project&lt;/h2>
+&lt;p>Need new features for your existing software? I’ll enhance your project with seamless integrations and robust functionality, regardless of the language or framework. Keep your software competitive and efficient.&lt;/p></description></item><item><title>Projects</title><link>/page/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/projects/</guid><description>&lt;p>Here is a list of a some open source projects I manage.&lt;/p>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -23,9 +36,9 @@ My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. 
 &lt;/table></description></item><item><title>Resume</title><link>/page/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/resume/</guid><description>&lt;p>&lt;a href="/docs/resume.pdf">Download PDF&lt;/a>&lt;/p>
 &lt;h1 id="joshua-hagofsky">Joshua Hagofsky&lt;/h1>
 &lt;h2 id="languages">Languages&lt;/h2>
-&lt;p>Go, Typescript, Javascript, C#, C/C++, PromQL, Python, Perl&lt;/p>
+&lt;p>Go, Typescript, Javascript, C#, C/C++, PromQL, Python, Perl, Java&lt;/p>
 &lt;h2 id="frameworks--tools">Frameworks &amp;amp; Tools&lt;/h2>
-&lt;p>Angular, AWS, Snowflake, Docker, MySQL, SQL Server, Kubernetes, Prometheus, Elasticsearch, Grafana, Consul, Vault&lt;/p>
+&lt;p>Angular, AWS, Snowflake, Docker, MySQL, SQL Server, Kubernetes, Openshift, Prometheus, Elasticsearch, Grafana, Consul, Vault, Redis, Kafka&lt;/p>
 &lt;h2 id="experience">Experience&lt;/h2>
 &lt;p>&lt;strong>Ontologics&lt;/strong> | Vice President of Software Development&lt;br>
 &lt;em>April 2021 - Present&lt;/em>&lt;/p>
