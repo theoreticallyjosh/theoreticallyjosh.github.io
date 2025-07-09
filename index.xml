@@ -247,7 +247,7 @@ elems[0].value = subject
 &lt;p>&lt;strong>Ontologics&lt;/strong> | Vice President of Software Development&lt;br>
 &lt;em>April 2021 - Present&lt;/em>&lt;/p>
 &lt;ul>
-&lt;li>Designed and implemented a full-stack software solution utilizing, GP, Angular, Snowflake, and AWS to analyze patent portfolios and provide key insights, resulting in a 700+% increase in efficiency for legal teams&lt;/li>
+&lt;li>Designed and implemented a full-stack software solution utilizing, Go, Angular, Snowflake, and AWS to analyze patent portfolios and provide key insights, resulting in a 700+% increase in efficiency for legal teams&lt;/li>
 &lt;li>Developed robust data pipelines using Snowflake to ingest and process patent data&lt;/li>
 &lt;li>Utilized CI/CD pipelines (Codepipe &amp;amp; ECS) for automated deployment and scaling of the application&lt;/li>
 &lt;li>implemented matching learning algorithms (regression models) to determine patent strength and identify emerging technology areas.&lt;/li>
