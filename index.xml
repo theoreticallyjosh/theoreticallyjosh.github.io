@@ -228,6 +228,10 @@ elems[0].value = subject
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
+ &lt;td>&lt;a href="https://github.com/theoreticallyjosh/awstui">awstui&lt;/a>&lt;/td>
+ &lt;td>A terminal user interface (TUI) for interacting with AWS services, built with Go and &lt;a href="https://github.com/charmbracelet/bubbletea">Bubble Tea&lt;/a>.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td>&lt;a href="https://github.com/theoreticallyjosh/logseq-plugin-harper">Logseq-plugin-harper&lt;/a>&lt;/td>
  &lt;td>Plugin for &lt;a href="https://logseq.com/">Logseq&lt;/a> to provide &lt;a href="https://writewithharper.com/">harper-ls&lt;/a> functionality&lt;/td>
  &lt;/tr>
