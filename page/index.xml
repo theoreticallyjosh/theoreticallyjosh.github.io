@@ -1,56 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Theoretically Josh</title><link>/page/</link><description>Recent content in Pages on Theoretically Josh</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2025 11:37:10 -0700</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy Policy</title><link>/page/privacy/</link><pubDate>Wed, 26 Oct 2022 10:18:36 -0700</pubDate><guid>/page/privacy/</guid><description>&lt;h2 id="privacy-policy-for-theoretically-josh">Privacy Policy for Theoretically Josh&lt;/h2>
-&lt;p>At Theoretically Josh, accessible from &lt;a href="https://theoreticallyjosh.com">https://theoreticallyjosh.com&lt;/a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Theoretically Josh and how we use it.&lt;/p>
-&lt;p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p>
-&lt;p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Theoretically Josh. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the &lt;a href="https://www.privacypolicygenerator.info/">Free Privacy Policy Generator&lt;/a>&lt;/p></description></item><item><title>About</title><link>/page/about/</link><pubDate>Wed, 19 Oct 2022 10:22:33 -0700</pubDate><guid>/page/about/</guid><description>&lt;p>My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. My family didn&amp;rsquo;t have much money. So, the only computer we had was an old &lt;a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore 64&lt;/a> that our aunt gave us. I somehow managed to fry the serial port, which meant no external storage would work. The only thing I could do with it was program in BASIC. Luckily, it came with a book on how to do just that. I would spend hours trying to create simple programs and games, only to loose everything ever time I turned it off. Eventually in high school I began learning C. I was then approached by some teachers to see if I could write some voting software for a mock election. It worked, but looking back, the code was terrible. Anyway I went to college and learned how to get better.&lt;/p></description></item><item><title>Consulting</title><link>/page/services/consulting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/services/consulting/</guid><description>&lt;h2 id="unlock-your-businesss-full-potential">Unlock Your Business’s Full Potential&lt;/h2>
-&lt;p>Struggling with inefficiencies or security gaps? My expert consulting services identify bottlenecks and vulnerabilities, delivering tailored recommendations to boost performance and protect your business. From streamlining operations to enhancing cybersecurity, I’ll help you stay ahead.&lt;/p>
-&lt;p>&lt;strong>Why Choose Me?&lt;/strong> Actionable insights, customized strategies, and proven results.&lt;br>
-&lt;strong>Ready to Start?&lt;/strong> &lt;a href="/contact?subject=Consultation">Schedule a Free 30-Minute Consultation&lt;/a>&lt;/p>
-&lt;h2 id="task-automation">Task Automation&lt;/h2>
-&lt;p>&lt;strong>Save Time with Smart Automation&lt;/strong>&lt;/p>
-&lt;p>Tired of wasting hours on repetitive tasks? I analyze your workflows and implement automation solutions to save time, reduce errors, and let you focus on what matters, growing your business. From simple scripts to complex integrations, I’ll tailor solutions to fit your needs.&lt;/p></description></item><item><title>Custom Software Development</title><link>/page/services/development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/services/development/</guid><description>&lt;h2 id="new-project">New Project&lt;/h2>
-&lt;p>Have a game-changing idea? As a full-stack developer, I’ll build your custom software from concept to launch, ensuring it’s scalable, secure, and user-friendly. Let’s turn your vision into reality.&lt;/p>
-&lt;p>&lt;strong>What I Offer:&lt;/strong> End-to-end development, modern tech stacks, and ongoing support.&lt;br>
-&lt;strong>Let’s Talk:&lt;/strong> &lt;a href="/contact?subject=New%20Project">Request a Project Quote&lt;/a>&lt;/p>
-&lt;h2 id="update-existing-project">Update Existing Project&lt;/h2>
-&lt;p>Need new features for your existing software? I’ll enhance your project with seamless integrations and robust functionality, regardless of the language or framework. Keep your software competitive and efficient.&lt;/p></description></item><item><title>Projects</title><link>/page/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/projects/</guid><description>&lt;p>Here is a list of a some open source projects I manage.&lt;/p>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Project&lt;/th>
- &lt;th>Description&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;a href="https://github.com/theoreticallyjosh/awstui">awstui&lt;/a>&lt;/td>
- &lt;td>A terminal user interface (TUI) for interacting with AWS services, built with Go and &lt;a href="https://github.com/charmbracelet/bubbletea">Bubble Tea&lt;/a>.&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://github.com/theoreticallyjosh/logseq-plugin-harper">Logseq-plugin-harper&lt;/a>&lt;/td>
- &lt;td>Plugin for &lt;a href="https://logseq.com/">Logseq&lt;/a> to provide &lt;a href="https://writewithharper.com/">harper-ls&lt;/a> functionality&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://github.com/theoreticallyjosh/dots">dots&lt;/a>&lt;/td>
- &lt;td>My configuration files for my setup&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>Resume</title><link>/page/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/page/resume/</guid><description>&lt;p>&lt;a href="/docs/joshua_hagofsky_resume.pdf">Download PDF&lt;/a>&lt;/p>
-&lt;h1 id="joshua-hagofsky">Joshua Hagofsky&lt;/h1>
-&lt;p>&lt;a href="mailto:theoreticallyjosh+web@gmail.com">theoreticallyjosh@gmail.com&lt;/a>&lt;/p>
-&lt;h2 id="languages">Languages&lt;/h2>
-&lt;p>Go, Typescript, Javascript, C#, C/C++, PromQL, Python, Perl, Java&lt;/p>
-&lt;h2 id="frameworks--tools">Frameworks &amp;amp; Tools&lt;/h2>
-&lt;p>Angular, AWS, Snowflake, Docker, MySQL, SQL Server, Kubernetes, Openshift, Prometheus, ElasticSearch, Grafana, Consul, Vault, Redis, Kafka&lt;/p>
-&lt;h2 id="experience">Experience&lt;/h2>
-&lt;p>&lt;strong>Ontologics&lt;/strong> | Vice President of Software Development&lt;br>
-&lt;em>April 2021 - July 2025&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>Designed and implemented a full-stack software solution utilizing, Go, Angular, Snowflake, and AWS to analyze patent portfolios and provide key insights, resulting in a 700+% increase in efficiency for legal teams&lt;/li>
-&lt;li>Developed robust data pipelines using Snowflake to ingest and process patent data&lt;/li>
-&lt;li>Utilized CI/CD pipelines (Codepipe &amp;amp; ECS) for automated deployment and scaling of the application&lt;/li>
-&lt;li>Implemented machine learning algorithms (regression models) to determine patent strength and identify emerging technology areas.&lt;/li>
-&lt;li>Worked with LLMs to provide insights into patent portfolios, including determining potential infringement risks&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>American Express&lt;/strong> | Site Reliability Engineer &amp;amp; Tooling Lead&lt;br>
-&lt;em>January 2019 - April 2021 (Full Time)&lt;/em>&lt;br>
-&lt;em>June 2018 - January 2019 (Contractor)&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Theoretically Josh</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Theoretically Josh</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2026 13:04:54 -0700</lastBuildDate>
+    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>/page/privacy/</link>
+      <pubDate>Wed, 26 Oct 2022 10:18:36 -0700</pubDate>
+      <guid>/page/privacy/</guid>
+      <description>&lt;h2 id=&#34;privacy-policy-for-theoretically-josh&#34;&gt;Privacy Policy for Theoretically Josh&lt;/h2&gt;&#xA;&lt;p&gt;At Theoretically Josh, accessible from &lt;a href=&#34;https://theoreticallyjosh.com&#34;&gt;https://theoreticallyjosh.com&lt;/a&gt;, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Theoretically Josh and how we use it.&lt;/p&gt;&#xA;&lt;p&gt;If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.&lt;/p&gt;&#xA;&lt;p&gt;This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Theoretically Josh. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the &lt;a href=&#34;https://www.privacypolicygenerator.info/&#34;&gt;Free Privacy Policy Generator&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/page/about/</link>
+      <pubDate>Wed, 19 Oct 2022 10:22:33 -0700</pubDate>
+      <guid>/page/about/</guid>
+      <description>&lt;p&gt;My name is Joshua (Josh) Hagofsky. I began programming when I was 12 years old. My family didn&amp;rsquo;t have much money. So, the only computer we had was an old &lt;a href=&#34;https://en.wikipedia.org/wiki/Commodore_64&#34;&gt;Commodore 64&lt;/a&gt; that our aunt gave us. I somehow managed to fry the serial port, which meant no external storage would work. The only thing I could do with it was program in BASIC. Luckily, it came with a book on how to do just that. I would spend hours trying to create simple programs and games, only to loose everything ever time I turned it off. Eventually in high school I began learning C. I was then approached by some teachers to see if I could write some voting software for a mock election. It worked, but looking back, the code was terrible. Anyway I went to college and learned how to get better.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>/page/services/consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/page/services/consulting/</guid>
+      <description>&lt;h2 id=&#34;unlock-your-businesss-full-potential&#34;&gt;Unlock Your Business’s Full Potential&lt;/h2&gt;&#xA;&lt;p&gt;Struggling with inefficiencies or security gaps? My expert consulting services identify bottlenecks and vulnerabilities, delivering tailored recommendations to boost performance and protect your business. From streamlining operations to enhancing cybersecurity, I’ll help you stay ahead.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why Choose Me?&lt;/strong&gt; Actionable insights, customized strategies, and proven results.&lt;br&gt;&#xA;&lt;strong&gt;Ready to Start?&lt;/strong&gt; &lt;a href=&#34;/contact?subject=Consultation&#34;&gt;Schedule a Free 30-Minute Consultation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;task-automation&#34;&gt;Task Automation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Save Time with Smart Automation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tired of wasting hours on repetitive tasks? I analyze your workflows and implement automation solutions to save time, reduce errors, and let you focus on what matters, growing your business. From simple scripts to complex integrations, I’ll tailor solutions to fit your needs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom Software Development</title>
+      <link>/page/services/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/page/services/development/</guid>
+      <description>&lt;h2 id=&#34;new-project&#34;&gt;New Project&lt;/h2&gt;&#xA;&lt;p&gt;Have a game-changing idea? As a full-stack developer, I’ll build your custom software from concept to launch, ensuring it’s scalable, secure, and user-friendly. Let’s turn your vision into reality.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What I Offer:&lt;/strong&gt; End-to-end development, modern tech stacks, and ongoing support.&lt;br&gt;&#xA;&lt;strong&gt;Let’s Talk:&lt;/strong&gt; &lt;a href=&#34;/contact?subject=New%20Project&#34;&gt;Request a Project Quote&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;update-existing-project&#34;&gt;Update Existing Project&lt;/h2&gt;&#xA;&lt;p&gt;Need new features for your existing software? I’ll enhance your project with seamless integrations and robust functionality, regardless of the language or framework. Keep your software competitive and efficient.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/page/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/page/projects/</guid>
+      <description>&lt;p&gt;Here is a list of a some open source projects I manage.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Project&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/awstui&#34;&gt;awstui&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;A terminal user interface (TUI) for interacting with AWS services, built with Go and &lt;a href=&#34;https://github.com/charmbracelet/bubbletea&#34;&gt;Bubble Tea&lt;/a&gt;.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/logseq-plugin-harper&#34;&gt;Logseq-plugin-harper&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Plugin for &lt;a href=&#34;https://logseq.com/&#34;&gt;Logseq&lt;/a&gt; to provide &lt;a href=&#34;https://writewithharper.com/&#34;&gt;harper-ls&lt;/a&gt; functionality&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/theoreticallyjosh/dots&#34;&gt;dots&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;My configuration files for my setup&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>/page/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/page/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/docs/joshua_hagofsky_resume.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;joshua-hagofsky&#34;&gt;Joshua Hagofsky&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:theoreticallyjosh+web@gmail.com&#34;&gt;theoreticallyjosh@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;&#xA;&lt;p&gt;Go, Typescript, Javascript, C#, C/C++, PromQL, Python, Perl, Java&lt;/p&gt;&#xA;&lt;h2 id=&#34;frameworks--tools&#34;&gt;Frameworks &amp;amp; Tools&lt;/h2&gt;&#xA;&lt;p&gt;Angular, AWS, Micronaut, Terraform, Snowflake, Docker, MySQL, SQL Server, Kubernetes, Openshift, Prometheus, ElasticSearch, Grafana, Consul, Vault, Redis, Kafka&lt;/p&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;DevAltus&lt;/strong&gt; | Senior Full Stack Developer / Architect&lt;br&gt;&#xA;&lt;em&gt;September 2025 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built annuity suitability calculation engine (Java) to speed up and streamline compliance team review process&lt;/li&gt;&#xA;&lt;li&gt;Implemented automated Transfer of Assets service handle requesting and receiving funds from ceding carriers&lt;/li&gt;&#xA;&lt;li&gt;Designed document management service (Python &amp;amp; DocumentDB) to handle sensitive customer documents&lt;/li&gt;&#xA;&lt;li&gt;Created custom GitHub CI/CD pipeline to interact with Jira and Terraform&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ontologics&lt;/strong&gt; | Vice President of Software Development&lt;br&gt;&#xA;&lt;em&gt;April 2021 - July 2025&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
